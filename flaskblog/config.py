@@ -10,3 +10,4 @@ class Config:
     MAIL_USE_TLS = True
     MAIL_USERNAME = os.environ.get('EMAIL_USER')
     MAIL_PASSWORD = os.environ.get('EMAIL_PASS')
+    #postgresql://sq_user:Ps1qdZCDbOvEXT4z8HWmgol0jS044XDd@dpg-cj6sll5jeehc73bre14g-a.oregon-postgres.render.com/sqexit
